@@ -1,0 +1,3 @@
+## New file test
+
+>WordPress, Tumblr, Blogger and Evernote. All your text-based blog posts can now start, evolve and be published without leaving Byword. You can also export to HTML, PDF, and send emails from your Markdown documents.
